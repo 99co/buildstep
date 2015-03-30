@@ -5,9 +5,12 @@ build-essential
 curl
 daemontools
 dnsutils
+default-jre
 imagemagick
 iputils-tracepath
 libcurl4-openssl-dev
+liblcms1-dev
+libwebp-dev
 libglib2.0-dev
 libjpeg62
 libpng12-0
@@ -21,8 +24,6 @@ libssl0.9.8
 libxml2-dev
 libxslt-dev
 netcat-openbsd
-openssh-client
-openssh-server
 socat
 git
 supervisor
@@ -30,7 +31,6 @@ python-dev
 libevent-dev
 nodejs
 npm
-mongodb
 python-pip
 libjpeg-dev
 zlib1g-dev
@@ -40,3 +40,4 @@ libmagic-dev
 software-properties-common
 python-virtualenv
 ruby-dev
+
